@@ -3,6 +3,6 @@ Hello, I'm here on medium to learn from you and share my learnings too. I try to
  - 🧑‍🏭 Data @Stacktics, Marketing and Technology Consultancy
  - 📋 Expertise in Python, SQL, R Studio, Matlab, GCP, Snowflake, Google Stack, Tableau, Power Bi, Looker, UnicaIBM, etc
  - ⛽ Fueling my expertise in Cloud Infrastructure, Big Data Technologies and Co-pilot. I enjoy writing on Medium @melania.mendes 
- - 🌝 Funfact - Mishap turned memorable experience - Accidentally taking a bike into a river  😆 and scuba diving in chilling temperatures.
+ - 🌝 Funfact - Mishap turned memorable experience - Accidentally taking a bike into a river  😆 and scuba dived in chilling temperatures.
 
 If you have any questions about my code, analysis or simply want to connect, please add me on LinkedIn @mendesme or write to me at melania.mendes@gmail.com/ mendes.me@northeastern.edu
